@@ -18,7 +18,7 @@ function nextImage() {
     
     li[position].classList.add('active');
 }
-//Allez tous vous faire foutre
+
     
     
 
