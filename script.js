@@ -16,11 +16,13 @@ function nextImage() {
         li[i].classList.remove("active");
     }
     
-    
     li[position].classList.add('active');
-
 }
-
+//Allez tous vous faire foutre
     
+    
+
+
+
 buttonNext.addEventListener("click", nextImage);
 buttonPrevious.addEventListener("click", previousImage)
