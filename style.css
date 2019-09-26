@@ -1,6 +1,33 @@
+body{
+    background-color: rgb(27, 27, 27);
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: green;
+    font-size: 35px;    
+}
+.btn1{
+    border-radius: 5px;
+    align-items: center;
+    box-shadow: 2px;
+}
+.btn2{
+    border-radius: 5px;
+    box-shadow: 2px;
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+}
+
 li{
     display: none;
 }
 .active{
     display: block;
+    
+}
+img{
+ margin-left: 10%;
 }
