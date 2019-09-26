@@ -21,5 +21,6 @@ function nextImage() {
 
 }
 
+    
 buttonNext.addEventListener("click", nextImage);
 buttonPrevious.addEventListener("click", previousImage)
